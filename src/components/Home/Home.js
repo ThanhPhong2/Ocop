@@ -2084,7 +2084,7 @@ const Home = () => {
         </div>
       </div>
       <div className=" section">
-        <div className="container">1
+        <div className="container">
           <div className="row">
             <div className="col-lg-12 col-md-12 col-sm-12">
               <div className="sec-heading-flex pl-2 pr-2">
